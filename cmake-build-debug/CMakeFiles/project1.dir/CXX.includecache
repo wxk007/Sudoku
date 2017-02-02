@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/vanderbilt/programming language/project1/Sudoku.cpp
+iostream
+-
+iostream
+-
+algorithm
+-
+fstream
+-
+Sudoku.h
+D:/vanderbilt/programming language/project1/Sudoku.h
+
+D:/vanderbilt/programming language/project1/Sudoku.h
+iostream
+-
+
+D:/vanderbilt/programming language/project1/sudoku-driver.cpp
+iostream
+-
+string
+-
+time.h
+-
+Sudoku.h
+D:/vanderbilt/programming language/project1/Sudoku.h
+
